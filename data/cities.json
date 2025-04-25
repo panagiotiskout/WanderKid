@@ -1,0 +1,196 @@
+{
+  "cities": [
+    {
+      "id": "9dd0",
+      "cityName": "Piraeus",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-10T14:13:06.049Z",
+      "notes": "",
+      "position": {
+        "lat": "37.93932387955217",
+        "lng": "23.646011352539062"
+      }
+    },
+    {
+      "id": "c0fa",
+      "cityName": "Copenhagen",
+      "country": "Denmark",
+      "emoji": "🇩🇰",
+      "date": "2025-04-14T16:10:57.932Z",
+      "notes": "",
+      "position": {
+        "lat": "55.68629464281883",
+        "lng": "12.570419311523438"
+      }
+    },
+    {
+      "id": "fc52",
+      "cityName": "Amsterdam",
+      "country": "Netherlands (Kingdom of the)",
+      "emoji": "🇳🇱",
+      "date": "2025-04-14T16:11:16.011Z",
+      "notes": "",
+      "position": {
+        "lat": "52.37182634976541",
+        "lng": "4.895095825195313"
+      }
+    },
+    {
+      "id": "9679",
+      "cityName": "Aetopetra",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-14T16:12:40.715Z",
+      "notes": "",
+      "position": {
+        "lat": "39.76932703463981",
+        "lng": "20.54104328155518"
+      }
+    },
+    {
+      "id": "b3e3",
+      "cityName": "Budapest I.",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2025-04-14T16:13:39.203Z",
+      "notes": "",
+      "position": {
+        "lat": "47.49632829382891",
+        "lng": "19.03964996337891"
+      }
+    },
+    {
+      "id": "a973",
+      "cityName": "Bratislava",
+      "country": "Slovakia",
+      "emoji": "🇸🇰",
+      "date": "2025-04-14T16:13:51.227Z",
+      "notes": "",
+      "position": {
+        "lat": "48.15131361676826",
+        "lng": "17.108716964721683"
+      }
+    },
+    {
+      "id": "0078",
+      "cityName": "Belgrade",
+      "country": "Serbia",
+      "emoji": "🇷🇸",
+      "date": "2025-04-14T16:14:37.947Z",
+      "notes": "",
+      "position": {
+        "lat": "44.816671976967015",
+        "lng": "20.45688629150391"
+      }
+    },
+    {
+      "id": "07a4",
+      "cityName": "Thessaloniki",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-14T16:15:14.266Z",
+      "notes": "",
+      "position": {
+        "lat": "40.6396186483957",
+        "lng": "22.93447494506836"
+      }
+    },
+    {
+      "id": "8c4b",
+      "cityName": "Chalkida",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-14T16:15:44.003Z",
+      "notes": "",
+      "position": {
+        "lat": "38.4546641418137",
+        "lng": "23.609619140625004"
+      }
+    },
+    {
+      "id": "4734",
+      "cityName": "Athens",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-14T16:17:23.466Z",
+      "notes": "",
+      "position": {
+        "lat": "37.97180858200971",
+        "lng": "23.73252868652344"
+      }
+    },
+    {
+      "id": "7e1e",
+      "cityName": "Chania",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-14T16:17:30.074Z",
+      "notes": "",
+      "position": {
+        "lat": "35.460669951495305",
+        "lng": "24.049072265625"
+      }
+    },
+    {
+      "id": "9de9",
+      "cityName": "Loutraki",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-15T09:20:19.535Z",
+      "notes": "",
+      "position": {
+        "lat": "37.97126728803286",
+        "lng": "22.9833984375"
+      }
+    },
+    {
+      "id": "b063",
+      "cityName": "Larisa",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-15T09:20:28.309Z",
+      "notes": "",
+      "position": {
+        "lat": "39.632134425964026",
+        "lng": "22.42172241210938"
+      }
+    },
+    {
+      "id": "d5f6",
+      "cityName": "Naousa",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-15T09:20:43.502Z",
+      "notes": "",
+      "position": {
+        "lat": "40.62437645591559",
+        "lng": "22.085266113281254"
+      }
+    },
+    {
+      "id": "7cf6",
+      "cityName": "Veroia",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-15T09:20:46.565Z",
+      "notes": "",
+      "position": {
+        "lat": "40.49709237269567",
+        "lng": "22.206115722656254"
+      }
+    },
+    {
+      "id": "2c29",
+      "cityName": "Piraeus",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2025-04-15T09:22:26.991Z",
+      "notes": "",
+      "position": {
+        "lat": "37.92984223742466",
+        "lng": "23.64235281944275"
+      }
+    }
+  ]
+}
